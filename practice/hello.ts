@@ -94,3 +94,5 @@ const me: IsPerson = {
  greetPerson(me);
 
  console.log(me);
+
+ // this is a comment 
